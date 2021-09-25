@@ -1,5 +1,5 @@
 # bytes.com-notable
-MY notable contributions on the site bytes.com. Probably descriptive or larger than 'breif'/'one sentence bug correct' answer types exclusing 'chit chats' and 'efforts hunting'.
+MY notable contributions on the site bytes.com. Probably descriptive or larger than 'breif'/'one sentence bug correct' answer types obviously excluding 'chit chats' and 'efforts hunting'.
 
 [C++11 running DOS commands without a DOS window](https://bytes.com/topic/unix/answers/974117-c-11-running-dos-commands-without-dos-window#post3827312)
 
@@ -55,3 +55,4 @@ MY notable contributions on the site bytes.com. Probably descriptive or larger t
 
 [Which is best for pluginns..Wordpress.org or Wordpress.com and why.](https://bytes.com/topic/web-applications/answers/974567-best-pluginns-wordpress-org-wordpress-com-why#post3828949)
 
+[Script tags in header or end of body tag?](https://bytes.com/topic/javascript/answers/974524-script-tags-header-end-body-tag#post3828833)
