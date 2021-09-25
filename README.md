@@ -1,5 +1,5 @@
 # bytes.com-notable
-MY notable contributions on the site bytes.com. Probably descriptive or larger than 'breif'/'one sentence bug correct' answer types'; obviously excluding 'chit chats' and 'efforts hunting'.
+MY notable contributions on the site bytes.com. Probably descriptive or larger than 'breif'/'one sentence bug correct' answer types; obviously excluding 'chit chats' and 'efforts hunting'.
 
 [C++11 running DOS commands without a DOS window](https://bytes.com/topic/unix/answers/974117-c-11-running-dos-commands-without-dos-window#post3827312)
 
@@ -62,4 +62,3 @@ MY notable contributions on the site bytes.com. Probably descriptive or larger t
 [polynomial operations](https://bytes.com/topic/c/answers/974481-polynomial-operations#post3828694)
 
 [expected expression before ‘)’ token](https://bytes.com/topic/c/answers/974448-expected-expression-before-token#post3828538)
-
