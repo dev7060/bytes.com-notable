@@ -1,5 +1,5 @@
 # bytes.com-notable
-MY notable contributions on the site bytes.com. Probably descriptive or larger than 'breif'/'one sentence bug correct' answer type.
+MY notable contributions on the site bytes.com. Probably descriptive or larger than 'breif'/'one sentence bug correct' answer types.
 
 [C++11 running DOS commands without a DOS window](https://bytes.com/topic/unix/answers/974117-c-11-running-dos-commands-without-dos-window#post3827312)
 
@@ -25,8 +25,14 @@ MY notable contributions on the site bytes.com. Probably descriptive or larger t
 
 [How to write the test cases in programming languages?](https://bytes.com/topic/c/answers/973522-i-dont-know-how-write-test-cases-programming-languages#post3825495)
 
+[HTML5 Javascript logic progress bar file downloading](https://bytes.com/topic/general/answers/976153-html5-javascript-logic-progress-bar-file-downloading#post3832556)
+
 [What is an uniqualifed-id?](https://bytes.com/topic/c/answers/972765-what-uniqualifed-id-before-token-message-referring#post3823333)
 
 [What is the difference in these pointer assignements?](https://bytes.com/topic/c/answers/976307-what-difference-these-pointer-assignements#post3832819)
 
+[Java netbeans](https://bytes.com/topic/java/answers/975540-java-netbeans#post3831387)
 
+[Strange Keyboard Behaviour](https://bytes.com/topic/computer-hardware/answers/974998-strange-failed-keyboard-behaviour#post3830273)
+
+[How to select file on an open explorer window with java](https://bytes.com/topic/java/answers/974777-how-select-file-open-explorer-window-java#post3829782)
