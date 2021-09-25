@@ -36,3 +36,15 @@ MY notable contributions on the site bytes.com. Probably descriptive or larger t
 [Strange Keyboard Behaviour](https://bytes.com/topic/computer-hardware/answers/974998-strange-failed-keyboard-behaviour#post3830273)
 
 [How to select file on an open explorer window with java](https://bytes.com/topic/java/answers/974777-how-select-file-open-explorer-window-java#post3829782)
+
+[Allow users access to a server for a limited time from a website?](https://bytes.com/topic/software-development/answers/974746-allow-users-access-server-limited-time-website#post3829620)
+
+[Running an existing C program on a web application?](https://bytes.com/topic/c/answers/974733-running-existing-c-program-web-application#post3829580)
+
+[Why PHP gets so much hate?](https://bytes.com/topic/php/answers/974697-why-php-gets-so-much-hate#post3829362)
+
+[What you guys think of modern C++ compared the "old days" ? Is it bloated now ?](https://bytes.com/topic/c/answers/974682-what-you-guys-think-modern-c-compared-old-days-bloated-now#post3829299)
+
+[Reasons to Learn PHP?](https://bytes.com/topic/php/answers/974668-reasons-learn-php#post3829228)
+
+[invalid operands const char* to binary 'operator+'](https://bytes.com/topic/c/answers/974655-invalid-operands-const-char-binary-operator#post3829226)
