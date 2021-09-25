@@ -1,5 +1,5 @@
 # bytes.com-notable
-MY notable contributions on the site bytes.com. Probably descriptive or larger than 'breif'/'one sentence bug correct' answer types.
+MY notable contributions on the site bytes.com. Probably descriptive or larger than 'breif'/'one sentence bug correct' answer types exclusing 'chit chats' and 'efforts hunting'.
 
 [C++11 running DOS commands without a DOS window](https://bytes.com/topic/unix/answers/974117-c-11-running-dos-commands-without-dos-window#post3827312)
 
@@ -48,3 +48,10 @@ MY notable contributions on the site bytes.com. Probably descriptive or larger t
 [Reasons to Learn PHP?](https://bytes.com/topic/php/answers/974668-reasons-learn-php#post3829228)
 
 [invalid operands const char* to binary 'operator+'](https://bytes.com/topic/c/answers/974655-invalid-operands-const-char-binary-operator#post3829226)
+
+[Determine the size of following structure](https://bytes.com/topic/c/answers/974574-determine-size-following-structure#post3828987)
+
+[Why isn't pure XML+CSS more common?](https://bytes.com/topic/xml/answers/974667-why-isnt-pure-xml-css-more-common#post3829227)
+
+[Which is best for pluginns..Wordpress.org or Wordpress.com and why.](https://bytes.com/topic/web-applications/answers/974567-best-pluginns-wordpress-org-wordpress-com-why#post3828949)
+
